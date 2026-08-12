@@ -1,0 +1,112 @@
+{
+  "Premier League": {
+    "42": "Arsenal",
+    "44": "Liverpool FC",
+    "17": "Manchester City",
+    "35": "Manchester United",
+    "38": "Chelsea",
+    "33": "Tottenham Hotspur",
+    "39": "Newcastle United"
+  },
+  "Championship": {
+    "6": "Burnley",
+    "15": "Sheffield United",
+    "45": "Southampton",
+    "3": "Wolverhampton",
+    "37": "West Ham United",
+    "8": "West Bromwich Albion",
+    "263": "Norwich City"
+  },
+  "La Liga": {
+    "2829": "Real Madrid",
+    "2817": "FC Barcelona",
+    "2836": "Atlético Madrid",
+    "2833": "Sevilla",
+    "2819": "Villarreal",
+    "2824": "Real Sociedad"
+  },
+  "Serie A": {
+    "2697": "Inter",
+    "2692": "AC Milan",
+    "2687": "Juventus",
+    "2714": "SSC Napoli",
+    "2702": "AS Roma",
+    "2686": "Atalanta"
+  },
+  "Bundesliga": {
+    "2672": "FC Bayern München",
+    "2673": "Borussia Dortmund",
+    "2681": "Bayer 04 Leverkusen",
+    "36360": "RB Leipzig",
+    "2674": "Eintracht Frankfurt",
+    "2677": "VfB Stuttgart"
+  },
+  "Ligue 1": {
+    "1644": "Paris Saint-Germain",
+    "1641": "Olympique de Marseille",
+    "1649": "Olympique Lyonnais",
+    "1653": "AS Monaco",
+    "1643": "Lille",
+    "1658": "Stade Rennais"
+  },
+  "Eredivisie": {
+    "2953": "AFC Ajax",
+    "2952": "PSV Eindhoven",
+    "2959": "Feyenoord",
+    "2950": "AZ Alkmaar",
+    "2955": "FC Twente"
+  },
+  "MLS": {
+    "337602": "Inter Miami CF",
+    "274650": "Los Angeles FC",
+    "2513": "LA Galaxy",
+    "243211": "Atlanta United",
+    "22009": "Seattle Sounders FC",
+    "187643": "New York City FC"
+  },
+  "Brazil Série A": {
+    "5981": "Flamengo",
+    "1963": "Palmeiras",
+    "1957": "Corinthians",
+    "1981": "São Paulo",
+    "1961": "Fluminense",
+    "1958": "Botafogo"
+  },
+  "Saudi Pro League": {
+    "21895": "Al-Hilal",
+    "23400": "Al-Nassr",
+    "34315": "Al-Ittihad",
+    "34469": "Al-Ahli",
+    "34313": "Al-Shabab",
+    "56021": "Al-Taawoun"
+  },
+  "Liga Portugal": {
+    "3006": "Benfica",
+    "3002": "FC Porto",
+    "3001": "Sporting CP",
+    "2999": "Sporting Braga",
+    "3009": "Vitória SC",
+    "49531": "Famalicão"
+  },
+  "Süper Lig": {
+    "3061": "Galatasaray",
+    "3052": "Fenerbahçe",
+    "3050": "Beşiktaş JK",
+    "3051": "Trabzonspor",
+    "3086": "Başakşehir FK"
+  },
+  "South African Premiership": {
+    "7665": "Mamelodi Sundowns",
+    "7663": "Kaizer Chiefs",
+    "7668": "Orlando Pirates",
+    "43555": "Stellenbosch",
+    "7655": "AmaZulu FC"
+  },
+  "Malawi Super League": {
+    "459731": "Mighty Mukuru Wanderers",
+    "191187": "Nyasa Big Bullets",
+    "305264": "Silver Strikers",
+    "292897": "Blue Eagles FC",
+    "290615": "Kamuzu Barracks"
+  }
+}
