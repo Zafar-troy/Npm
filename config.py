@@ -38,7 +38,7 @@ POST_GOALS          = os.getenv("POST_GOALS",          "true").lower() == "true"
 POST_HALFTIME       = os.getenv("POST_HALFTIME",       "true").lower() == "true"
 POST_RED_CARDS      = os.getenv("POST_RED_CARDS",      "true").lower() == "true"
 POST_FULLTIME       = os.getenv("POST_FULLTIME",       "true").lower() == "true"
-POST_DAILY_PREVIEW  = os.getenv("POST_DAILY_PREVIEW",  "true").lower() == "true"
+POST_DAILY_PREVIEW  = os.getenv("POST_DAILY_PREVIEW",  "false").lower() == "false"
 
 # Man of the Match — neither data source carries player ratings, so this
 # currently always posts nothing (kept as a flag for a future source).
