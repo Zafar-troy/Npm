@@ -1,0 +1,4 @@
+requests==2.32.5
+pillow==10.4.0
+python-dotenv==1.0.1
+curl_cffi==0.16.0
